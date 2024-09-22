@@ -1,3 +1,3 @@
 # space_jams_player
 
-A new Flutter project.
+This is a muisic player app, to play audio files on an android device.
