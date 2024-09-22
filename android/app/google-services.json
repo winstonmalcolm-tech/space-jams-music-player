@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148750233307",
+    "project_id": "space-jam-music-player",
+    "storage_bucket": "space-jam-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148750233307:android:33284a950b70da562fe6fe",
+        "android_client_info": {
+          "package_name": "com.example.space_jams_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJ7qzItMmTByLa7XQRgS5cLkHHQhtlEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+name: space_jams_player
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  adaptive_dialog: ^2.2.0
+  audio_service: ^0.18.15
+  audio_video_progress_bar: ^2.0.3
+  badges: ^3.1.2
+  clickable_list_wheel_view: ^0.2.0
+  device_info_plus: ^10.1.2
+  flutter:
+    sdk: flutter
+  flutter_elastic_list_view: ^0.0.5+2
+  glassmorphism: ^3.0.0
+  google_fonts: ^4.0.4
+  google_nav_bar: ^5.0.6
+  just_audio: ^0.9.39
+  just_audio_background: ^0.0.1-beta.13
+  loading_animation_widget: ^1.2.1
+  miniplayer: ^1.0.1
+  on_audio_query: ^2.9.0
+  permission_handler: ^11.3.1
+  provider: ^6.1.2
+  rive: ^0.9.1
+  toastification: ^2.2.0
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/
